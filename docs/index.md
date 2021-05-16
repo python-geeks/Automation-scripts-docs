@@ -37,7 +37,7 @@ And it's okay if you're not aware of process. Kindly raise query by creating pul
 
 **How to Contribute 🤔**
 
-You can contribute by adding new scripts, improving current scripts or Documentation.Here are some Instructions
+You can contribute more by adding new scripts, improving current scripts or Documentation.Here are some Instructions
 before making a Pull Request
 
 **Here are the steps to Make contribute 👣**
